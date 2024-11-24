@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Meirielen04
 - 👀 I’m interested in anime and new songs
-- 🌱 I’m currently learning python and javascript
+- 🌱 I’m currently learning front end
 
 
 <!---
